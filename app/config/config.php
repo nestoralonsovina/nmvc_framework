@@ -1,13 +1,13 @@
 <?php
   // DB Params
   define('DB_HOST', 'localhost');
-  define('DB_USER', 'root');
-  define('DB_PASS', 'root');
-  define('DB_NAME', 'nmvc');
+  define('DB_USER', '_');
+  define('DB_PASS', '_');
+  define('DB_NAME', '_');
 
   // App Root
-  define('APPROOT', dirname(dirname(__FILE__)));
+  define('APPROOT', $_SERVER['DOCUMENT_ROOT'] . '/app');
   // URL Root
   define('URLROOT', $_SERVER['HTTP_HOST']);
   // Site Name
-  define('SITENAME', 'NalonsoMVC');
+  define('SITENAME', '_');
