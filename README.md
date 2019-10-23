@@ -19,5 +19,5 @@ new Posts()-&gt;edit(1)
 <p>There are no models included in the Framework, but should be created in a models folder inside the /app/</p>
 <h3 id="example">Example</h3>
 <p>If necessary, a basic example of the framework can be found in the <strong>example</strong> branch, just set a MAMP server to test it out.</p>
-<p>Built following a tutorial, all the refactoring and documentation is entirely done by me.</p>
+<p><em>Built following a tutorial, all the refactoring and documentation is entirely done by me.</em></p>
 
